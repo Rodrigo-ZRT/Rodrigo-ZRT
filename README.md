@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! Eu sou Rodrigo 👋
 
-<!--
-**Rodrigo-ZRT/Rodrigo-ZRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Backend | Python, SQL, Django, Flask  
+🚀 Apaixonado por resolver problemas com código e criar aplicações eficientes  
+📫 Contato: rodzmaciel21@gmail.com
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas  
+🔹 **Linguagens:** Python, SQL  
+🔹 **Frameworks:** Django, Flask  
+🔹 **Banco de Dados:** MySQL, SQLite  
+🔹 **Ferramentas:** VS Code, PyCharm  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos Destacados  
+🔹 [**Nome do Projeto 1**](link para o repositório) – Breve descrição  
+🔹 [**Nome do Projeto 2**](link para o repositório) – Breve descrição  
+
+---
+🛠 Sempre aprendendo e desenvolvendo novos projetos!
